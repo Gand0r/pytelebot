@@ -1,0 +1,5 @@
+dependencies = "Bump codecov/test-results-action from 1.0.1 to 1.0.4"
+[[pull_requests]]
+uid = "50"
+author_uid = "dependabot[bot]"
+closes_threads = []
